@@ -3,7 +3,7 @@
 ![GitHub Logo](https://toggl.com/blog/wp-content/uploads/2018/08/toggl-it-jobs-explained-with-changing-lightbulb-cover.jpg)<br>
 
 
-<b>I'm a Full Stack Web Developer and a Cyber Security student with expirience in React, JavaScript and Flask! I enjoy coding, nice devices and learning new skills! I'm passionate about discovering new cultures, learning new languages and making friends! Take a look at my projects and get in touch with me!😄</b><br>
+<b>I'm a Full Stack Web Developer and a Cyber Security student with expirience in React, JavaScript, NodeJs and Flask! I enjoy coding, nice devices and learning new skills! I'm passionate about discovering new cultures, learning new languages and making friends! Take a look at my projects and get in touch with me!😄</b><br>
 
 ### My contacts 📌:
 
