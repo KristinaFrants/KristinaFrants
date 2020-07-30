@@ -1,4 +1,4 @@
-### I'm Kristy ✌️
+### Hi there I'm Kristy ✌️
 
 ![GitHub Logo](https://toggl.com/blog/wp-content/uploads/2018/08/toggl-it-jobs-explained-with-changing-lightbulb-cover.jpg)<br>
 
